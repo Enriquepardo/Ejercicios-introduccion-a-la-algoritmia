@@ -1,4 +1,3 @@
-import functools
 
 def deco_intereses_generados(func):
   def wrapper():

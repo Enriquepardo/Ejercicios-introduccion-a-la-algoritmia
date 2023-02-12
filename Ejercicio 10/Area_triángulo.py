@@ -1,4 +1,4 @@
-import functools
+
 
 def area_triangulo(func):
     def wrapper(base, altura):

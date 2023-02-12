@@ -1,4 +1,4 @@
-import functools
+
 
 def media_ponderada_decorator(func):
     def wrapper():

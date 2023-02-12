@@ -1,4 +1,4 @@
-import functools
+
 
 def media_aritmetica_decorator(func):
     def wrapper():

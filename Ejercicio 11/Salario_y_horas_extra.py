@@ -1,4 +1,4 @@
-import functools
+
 
 salario_bruto = float(input('Ingrese el salario bruto: '))
 horas_extra = int(input('Ingrese las horas extra: '))
